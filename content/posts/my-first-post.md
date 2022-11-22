@@ -6,4 +6,4 @@ draft: false
 
 Test
 
-![](testing.jpeg)
+![](/testing.jpeg)
